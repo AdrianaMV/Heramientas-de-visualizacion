@@ -1,0 +1,277 @@
+﻿{
+    "Url": "www.epdata.es/evolucion-numero-altas-bajas-pensiones-espana/1201a12e-ccac-4ab4-974c-67a5375a4e57",
+    "Respuesta": {
+        "Id": "1201a12e-ccac-4ab4-974c-67a5375a4e57",
+        "Url": "www.epdata.es/evolucion-numero-altas-bajas-pensiones-espana/1201a12e-ccac-4ab4-974c-67a5375a4e57",
+        "Titulo": "Evolución del número de altas y de bajas de pensión en España",
+        "Subtitulo": "En meses comparables",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Número de altas",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+                    "Clasificacion": null,
+                    "Unidad": "Nº de personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Enero",
+                            "Parametro": "2008",
+                            "Valor": 59356,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Enero",
+                            "Parametro": "2009",
+                            "Valor": 61745,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Enero",
+                            "Parametro": "2010",
+                            "Valor": 53532,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Enero",
+                            "Parametro": "2011",
+                            "Valor": 64803,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Enero",
+                            "Parametro": "2012",
+                            "Valor": 61896,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Enero",
+                            "Parametro": "2013",
+                            "Valor": 53958,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Enero",
+                            "Parametro": "2014",
+                            "Valor": 56808,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Enero",
+                            "Parametro": "2015",
+                            "Valor": 56984,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Enero",
+                            "Parametro": "2016",
+                            "Valor": 57535,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Enero",
+                            "Parametro": "2017",
+                            "Valor": 52873,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Enero",
+                            "Parametro": "2018",
+                            "Valor": 63025,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Enero",
+                            "Parametro": "2019",
+                            "Valor": 53248,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Enero",
+                            "Parametro": "2020",
+                            "Valor": 39256,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Enero",
+                            "Parametro": "2021",
+                            "Valor": 56316,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Enero",
+                            "Parametro": "2022",
+                            "Valor": 57676,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Número de bajas",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+                    "Clasificacion": null,
+                    "Unidad": "Nº de personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Enero",
+                            "Parametro": "2008",
+                            "Valor": 62454,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Enero",
+                            "Parametro": "2009",
+                            "Valor": 67699,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Enero",
+                            "Parametro": "2010",
+                            "Valor": 56778,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Enero",
+                            "Parametro": "2011",
+                            "Valor": 61761,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Enero",
+                            "Parametro": "2012",
+                            "Valor": 63187,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Enero",
+                            "Parametro": "2013",
+                            "Valor": 62494,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Enero",
+                            "Parametro": "2014",
+                            "Valor": 64008,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Enero",
+                            "Parametro": "2015",
+                            "Valor": 72550,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Enero",
+                            "Parametro": "2016",
+                            "Valor": 50920,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Enero",
+                            "Parametro": "2017",
+                            "Valor": 58537,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Enero",
+                            "Parametro": "2018",
+                            "Valor": 62252,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Enero",
+                            "Parametro": "2019",
+                            "Valor": 42015,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Enero",
+                            "Parametro": "2020",
+                            "Valor": 35186,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Enero",
+                            "Parametro": "2021",
+                            "Valor": 60999,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Enero",
+                            "Parametro": "2022",
+                            "Valor": 67998,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
